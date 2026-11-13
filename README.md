@@ -6,3 +6,6 @@ https://www.qbittorrent.org/download
 
 FDM
 https://www.freedownloadmanager.org/zh/download.htm
+
+IDM
+https://www.internetdownloadmanager.com/download.html
