@@ -9,3 +9,6 @@ https://www.freedownloadmanager.org/zh/download.htm
 
 IDM
 https://www.internetdownloadmanager.com/download.html
+
+.wsb  Windows Sandbox   WindowsSandbox.exe
+<Configuration></Configuration>
