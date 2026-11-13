@@ -11,4 +11,3 @@ IDM
 https://www.internetdownloadmanager.com/download.html
 
 .wsb  Windows Sandbox   WindowsSandbox.exe
-<Configuration></Configuration>
